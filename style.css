@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+.wrap{
+    background-color: #e7f58c;
+    width: 40vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
